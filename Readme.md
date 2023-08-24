@@ -3,7 +3,7 @@
 **[[Run Online]](https://codecentral.devexpress.com/e80006/)**
 <!-- run online end -->
 
-This example demonstrates how to use a custom popup menu command to export selected appointments to the file `in iCalendar` format. See the following article for more information: [iCalendar support](https://docs.devexpress.com/AspNet/4864/components/scheduler/concepts/icalendar-support).
+This example demonstrates how to use a custom popup menu command to export selected appointments to the file in `iCalendar` format. See the following article for more information: [iCalendar support](https://docs.devexpress.com/AspNet/4864/components/scheduler/concepts/icalendar-support).
 
 ## Overview
 
