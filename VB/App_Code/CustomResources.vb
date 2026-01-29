@@ -13,7 +13,7 @@ Public Class CustomResourceList
 		Next customResource
 	End Sub
 	Public Function GetResourceIndex(ByVal resourceId As Object) As Integer
-		For i As Integer = 0 To Count - 1
+		For i As Integer = 0 To AddressOf Count - 1
 			If Me(i).Id Is resourceId Then
 				Return i
 			End If

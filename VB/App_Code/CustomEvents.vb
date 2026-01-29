@@ -169,7 +169,7 @@ Public Class CustomEventList
 		Next customEvent
 	End Sub
 	Public Function GetEventIndex(ByVal eventId As Object) As Integer
-		For i As Integer = 0 To Count - 1
+		For i As Integer = 0 To AddressOf Count - 1
 			If Me(i).Id Is eventId Then
 				Return i
 			End If
